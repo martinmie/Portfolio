@@ -55,6 +55,43 @@ a {
 /*		Fin Partie CV		*/
 
 
+.general-container3 {
+	min-height: 100vh;
+	width: 75%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.general-container3 {
+	min-height: 75vh;
+	width: 1%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+.general-container3 {
+	min-height: 100vh;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.general-container3 {
+	min-height: 75vh;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
 img {
 	height: 100%;
 	width: 100%;
