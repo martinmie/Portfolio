@@ -147,7 +147,7 @@ p {
 	padding: 10px 30px;
 	color: black;
 	background-color: white;
-	border: 2px solid crimson;
+	border: 4px solid crimson;
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
@@ -1157,7 +1157,7 @@ input {
 	}
 
 	h1.section-title {
-		font-size: 6rem;
+		font-size: 7rem;
 	}
 
 	/* Hero */
